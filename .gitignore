@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# .env files
+.env
+*.env
+curso_1_openai/
 # C extensions
 *.so
 
