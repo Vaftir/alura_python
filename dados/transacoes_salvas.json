@@ -1,0 +1,12 @@
+[
+    {
+        "id_transacao": "9c",
+        "produto": "Artigo Esportivo",
+        "status": "Poss\u00edvel Fraude",
+        "parecer": "A transa\u00e7\u00e3o apresenta um valor elevado (R$1103,00) para um artigo esportivo, o que pode ser um indicativo de poss\u00edvel fraude, especialmente se o usu\u00e1rio n\u00e3o costuma realizar compras de alto valor em estabelecimentos similares ou em hor\u00e1rios at\u00edpicos.",
+        "recomendacao": {
+            "recomendacao": "Acionar setor Anti-Fraude",
+            "classificacao_fraude": "Transa\u00e7\u00e3o Suspeita de Alto Valor"
+        }
+    }
+]
